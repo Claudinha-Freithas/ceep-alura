@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # ceep-alura
-Projeto que simula um bloco de notas, onde podemos inserir notas, classificando-as por categorias
+Esse projeto simula um bloco de notas, permitindo a inserção de notas e classificação por categorias. Proporciona uma abordagem organizada para o gerenciamento de informações, permitindo aos usuários categorizar suas notas e manter um sistema estruturado para facilitar a referência e a busca.
 >>>>>>> aee6c4a3705d33f5d5d1d48ff644807203f3aa23
