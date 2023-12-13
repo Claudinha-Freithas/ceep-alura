@@ -15,6 +15,7 @@
     padding: 4px 8px;
     border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    display: grid;
 }
 .lista-categorias_input{
     margin-right: 20px;
